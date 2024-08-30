@@ -3,6 +3,6 @@
 ## Installation
 Add text in 'blossom' file to the configuration list at ```~/.config/terminator/config```
 
-## Screenshot(s)
+## Preview
 ![](./screenshots/ss.png)
 
